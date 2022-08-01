@@ -1,0 +1,7 @@
+load("@rules_cc//cc:defs.bzl", "cc_library")
+
+cc_library(
+    name = "mtc_lib",
+    srcs = glob(["*.c*"]) + glob(["src/*.cpp"]),
+    hdrs = glob(["*.h*"])
+)

@@ -1,0 +1,391 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+Makefile:6: /gbuild/maketools.gmake: No such file or directory
+make: *** No rule to make target '/gbuild/maketools.gmake'.  Stop.
+
+# GNU Make 4.3
+# Built for x86_64-redhat-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Mon Aug  1 14:16:48 2022
+
+# Variables
+
+# environment
+GDK_BACKEND = x11
+# makefile (from 'Makefile', line 2)
+OUTPUT = ../lib/libmtc$(_LIB)
+# environment
+LC_ALL = C
+# environment
+NO_AT_BRIDGE = 1
+# environment
+define GIT_SSH_KEY
+-----BEGIN OPENSSH PRIVATE KEY-----
+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
+-----END OPENSSH PRIVATE KEY-----
+endef
+# makefile (from 'Makefile', line 3)
+OBJDIR = ../tmp/mtc
+# environment
+VSCODE_CWD = /home/knyazevoe/wrkspc/bazel-procrustes-build
+# environment
+WINDOWPATH = 2
+# environment
+GDM_LANG = en_US.UTF-8
+# default
+MAKE_COMMAND := make
+# environment
+GOPATH = /home/knyazevoe/go
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+ZULU = ucs-infra-1.zulu.stageoffice.ru
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /home/knyazevoe/wrkspc/bazel-procrustes-build/mtc
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+HOSTNAME = fedora
+# environment
+LSCOLORS = Gxfxcxdxbxegedabagacad
+# environment
+MAIL = /var/spool/mail/knyazevoe
+# environment
+XDG_DATA_DIRS = /home/knyazevoe/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+# environment
+OLDPWD = /home/knyazevoe/wrkspc
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# automatic
+%F = $(notdir $%)
+# environment
+JULIETT = ucs-infra-1.juliett.stageoffice.ru
+# environment
+VSCODE_CODE_CACHE_PATH = /home/knyazevoe/.config/Code/CachedData/3b889b090b5ad5793f524b5d1d39fda662b96a2a
+# environment
+LANG = C
+# environment
+GUESTFISH_OUTPUT = \e[0m
+# environment
+XAUTHORITY = /run/user/1000/gdm/Xauthority
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS = /usr/include /usr/local/include /usr/include
+# environment
+GUESTFISH_INIT = \e[1;34m
+# makefile
+MAKEFLAGS = prR
+# environment
+TU_ADMIN_INST = admin:RhtgjcnmLe[f
+# makefile
+CURDIR := /home/knyazevoe/wrkspc/bazel-procrustes-build/mtc
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+LESSOPEN = ||/usr/bin/lesspipe.sh %s
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MFLAGS = -prR
+# environment
+SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
+# default
+.SHELLFLAGS := -c
+# environment
+HISTSIZE = 50000
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+XDG_SESSION_DESKTOP = gnome-xorg
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+TU_OK3 = ok3@devmail.stageoffice.ru:ok3
+# environment
+ZSH = /home/knyazevoe/.oh-my-zsh
+# environment
+VSCODE_PID = 18387
+# environment
+XDG_SESSION_TYPE = x11
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+SESSION_MANAGER = local/unix:@/tmp/.ICE-unix/1978,unix/unix:/tmp/.ICE-unix/1978
+# automatic
+*F = $(notdir $*)
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# environment
+TU_ET_1 = elena.tupikina@devmail.stageoffice.ru:%H()&*GfMN^Ok#$
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := x86_64-redhat-linux-gnu
+# makefile
+SHELL = /bin/sh
+# environment
+TU_TEN_ADM = tenant_admin:9M96dqWgJaOyNsnY*_g3
+# default
+MAKECMDGOALS := all
+# environment
+XMODIFIERS = @im=ibus
+# environment
+GITHUB_TOKEN = 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
+# environment
+SHLVL = 2
+# environment
+MAKELEVEL := 0
+# environment
+TEST_USER_1 = ok1@devmail.stageoffice.ru:31337
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/var/lib/snapd/snap/bin:/home/knyazevoe/.local/share/JetBrains/Toolbox/scripts:/usr/local/go/bin:/home/knyazevoe/.dotnet/tools:/home/knyazevoe/go/bin
+# environment
+MOZ_GMP_PATH = /usr/lib64/mozilla/plugins/gmp-gmpopenh264/system-installed
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+INVOCATION_ID = 0fd433d2f1834b63b27dc4e15e303677
+# environment
+USERNAME = knyazevoe
+# automatic
+?F = $(notdir $?)
+# environment
+GUESTFISH_PS1 = \[\e[1;32m\]><fs>\[\e[0;31m\] 
+# environment
+XDG_CURRENT_DESKTOP = GNOME
+# environment
+LS_COLORS = rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.m4a=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.oga=01;36:*.opus=01;36:*.spx=01;36:*.xspf=01;36:
+# automatic
++F = $(notdir $+)
+# environment
+LESS = -R
+# environment
+DESKTOP_SESSION = gnome-xorg
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = GNOME
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+LOGNAME = knyazevoe
+# environment
+UCS_VAULT_CREDS = oleg.knyazev:oygw3HLc
+# makefile
+.DEFAULT_GOAL := 
+# environment
+SYSTEMD_EXEC_PID = 2214
+# makefile (from 'Makefile', line 4)
+SOURCE = byteBuffer.cpp  dirtest.cpp  dirtools.cpp  fileStream.cpp  netStream.cpp
+# environment
+HISTCONTROL = ignoredups
+# environment
+EDITOR = /usr/bin/nano
+# environment
+DISPLAY = :0
+# environment
+USER = knyazevoe
+# default
+MAKE_VERSION := 4.3
+# environment
+MANAGERPID = 1779
+# environment
+which_declare = typeset -f
+# environment
+DEBUGINFOD_URLS = https://debuginfod.fedoraproject.org/ 
+# environment
+GIO_LAUNCHED_DESKTOP_FILE_PID = 8923
+# environment
+SSH_AGENT_PID = 1931
+# environment
+PAGER = less
+# environment
+_ = /usr/bin/make
+# environment
+GIT_TOKEN = VqMxmJp8rGee9zZuzVF8
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# environment
+COLORTERM = truecolor
+# environment
+JOURNAL_STREAM = 8:32629
+# environment
+XDG_SESSION_CLASS = user
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+TILIX_ID = 7927f62c-fa14-45ce-bd87-856eea8f9b37
+# environment
+HOME = /home/knyazevoe
+# environment
+QT_IM_MODULE = ibus
+# environment
+TU_ADMIN_ROMA = admin.zhivotyagin@devmail.stageoffice.ru:CpVGXQDSgupfoLd8mYk
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-dcad3f8e-1.69.2-main.sock
+# environment
+TERM = xterm-256color
+# environment
+DOTNET_CLI_TELEMETRY_OPTOUT = 1
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+define GIT_HOSTS
+|1|RlIS3EVRWkHTDydcZOd2AzZdICE=|6t6O+fY2i6pvntBC8J7yR8S2lEc= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJD17VVxUEs7/V409T5CtMOyioyB2ErCebkPlc7B2G30aIo6ePuLEDwZtEE6jJYmqjGNhj9IiRwDUDCMBth6978=
+|1|vjcQ/p5rPJ8h6UWY8+gTcS0P4Hw=|eXSZHhFjIOFnjj0DREdRENptI0I= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJD17VVxUEs7/V409T5CtMOyioyB2ErCebkPlc7B2G30aIo6ePuLEDwZtEE6jJYmqjGNhj9IiRwDUDCMBth6978=
+|1|qM77dJiqAZbK3tDKZ4t7FQdtOGM=|KNcDZAKOdfd1/96EsIWH5D2ZSzY= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBGO98rYi2sGtmSOL9zUvADv+UVQ6SkfQWLy2HefkE5X9ubEeSwaIpEu5r2UI6wyLjpvAUHUNk/UYAT3/Dv4lSpQ=
+|1|lyhTq85nGRHXAkEFRUink31pN40=|zExu1aCUoGOODmJadJnDlEY77JQ= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBGO98rYi2sGtmSOL9zUvADv+UVQ6SkfQWLy2HefkE5X9ubEeSwaIpEu5r2UI6wyLjpvAUHUNk/UYAT3/Dv4lSpQ=
+|1|OFjs8AV9Z0/9fNkFh0eN6UMuJX4=|AYjrfbOechMuedYBwqz3ZVgadvU= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBLPeu3Vyri2xJC7RW9HMga+cSeMiTYhl5t06D04bZwnh3GkqiBz3fZCOP933hQJEQ8tGEfpuO/DFpWJ/AUETUfk=
+|1|e396gyt8tugO6SQ/TBASvGWtb5U=|gmHe5TrKGhV3hUq0f2RpywWWBbo= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBBWD70EC5pyXn7pAt1vpXfNOfz6njuRsjrBflJFp1otUfKzJSX3pmwJvpEhBjig4FmaHOlcSIUL6Awim9Zz1vnA=
+|1|C1SV/IUNcMyq0eQb1bzPG6+q6IA=|HpfFru2wr/iKsnie7tkiHX1FlI0= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBBWD70EC5pyXn7pAt1vpXfNOfz6njuRsjrBflJFp1otUfKzJSX3pmwJvpEhBjig4FmaHOlcSIUL6Awim9Zz1vnA=
+|1|ujn+1TZbE2P7SM1d+oy7aHhktqs=|YjT5pQ40sbpU73FuXsEFwkP2HKo= ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBBnA/EWxTTRoXq7I2L23W3uGRNC2pFcGr7CfwkAW/OjunJ2VnPUL6ACqZIsaJpHDSrxcGevIIy2WXiUEk6nvwSg=
+ucs-infra-1.juliett.stageoffice.ru ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINHMGO80xDZQOxFeR9rSSeUTH/XWN3eKd7zpvm7fwbUP
+ucs-infra-1.juliett.stageoffice.ru ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCveMh3F4Qu+ncLEUfF5E4fX7Ha4quXNSaF40qszvR82zWb+1j1sAHbXhDGOs/lxmMtg1yopD7qjOtpzdQDSUXpQ54G8T9tQzAOR99Tv2R/3qJSuHN94oChZ34Jvkz/G5VsqRpzzk8aIHz6GBv7cSfEDBGNwaBqx/TiVao8pogpYk2QFRrZLPHfc2Hm2tOnNSuv9FZk1htOVyVzRh6Egm2giOm805s/W6fBwYxKSCP46kK03rQrZseWeHFqJXR9cKc8cvKQtV2eVZl3TM1BB5E8n3LnlhngwncfKNEhiwiWo25AM8sGNLfRwrX2VI+Jlk5r8pD0mtL2gcc34YPFqeab
+ucs-infra-1.juliett.stageoffice.ru ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBEMjwkg0kyD8ObJ4uIjWQf5xZfHenwNd96DiYOLW7TArwgJQx8IqpRbEVvZ2uVLIGBgWekJyW/XcZ4UVZteD4CA=
+188.165.189.141 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKfL2vAi061S299lsIAg6gSr3D/jKJWg8KICcef/WwJD
+188.165.189.141 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7WUH+Sjx/mPkYgRnU+sU0m90kMuEyyChqM4xMkkNLtYJBTr8BZIixKAhv+llkAM63wwSAv7n1P62tVJ5nED+1+4dbOoTN+nda97EUIaTODRNW/lYJY5XmJbWtCPkbgVmUX8ygZ8s1OlSIhcwuyBpIWrW7hPMeFc4ETZlL5DJU7w0VIj6FpEwFVMijKXTf0kOI5FggUOzhN7uBwVHaXZnJQ19UoRfIlmLBu57iiHECzRrpYnKIc7LZE08M71TxwzCoMOrOZBUKCZMlXAlRCLbjiA0N1v/FJMAL88oYppV0Zk8/MhOvILDjKB1zcpU5wLK71R60XFFHCMmJsuav3JjR
+188.165.189.141 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBDSA2oa8clk7G5Em7XMHzCaFAjxAr+sK7Lak3Bxg6+LuAnLQogH7Y/fZBWVqtufmcVbEI0bpOm+M1mB5pWQUPLE=
+endef
+# makefile (from 'Makefile', line 1)
+TARGET = LIB
+# environment
+GUESTFISH_RESTORE = \e[0m
+# environment
+VSCODE_CLI = 1
+# environment
+TEST_USER_2 = ok2@devmail.stageoffice.ru:1488
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+VTE_VERSION = 6800
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink guile load
+# environment
+YANKEE = ucs-infra-1.yankee.stageoffice.ru
+# environment
+TEST_USER_ADM = admin.knyazev@devmail.stageoffice.ru:EArkeQEv2_R!qD5
+# environment
+XDG_MENU_PREFIX = gnome-
+# environment
+nctlog_developer = oleg.knyazev@myoffice.team
+# environment
+GDMSESSION = gnome-xorg
+# variable set hash-table stats:
+# Load=130/1024=13%, Rehash=0, Collisions=9/157=6%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+ 
+# . (device 41, inode 6583236): 65 files, no impossibilities.
+
+# 65 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+/gbuild/maketools.gmake:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has not been done.
+#  Last modified 2022-08-01 14:06:53.778621074
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=5/1024=0%, Rehash=0, Collisions=0/16=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 71 / storage = 743 B / avg = 10 B
+# current buf: size = 8162 B / used = 743 B / count = 71 / avg = 10 B
+
+# strcache performance: lookups = 76 / hit rate = 6%
+# hash-table stats:
+# Load=71/8192=1%, Rehash=0, Collisions=1/76=1%
+# Finished Make data base on Mon Aug  1 14:16:48 2022
+
+ 

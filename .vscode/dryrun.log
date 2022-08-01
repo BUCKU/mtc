@@ -1,0 +1,9 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/knyazevoe/wrkspc/bazel-procrustes-build/mtc'
+make: Leaving directory '/home/knyazevoe/wrkspc/bazel-procrustes-build/mtc'
+ 
+Makefile:6: /gbuild/maketools.gmake: No such file or directory
+make: *** No rule to make target '/gbuild/maketools.gmake'.
+make: Failed to remake makefile '/gbuild/maketools.gmake'.
+make: *** No targets.  Stop.
+
